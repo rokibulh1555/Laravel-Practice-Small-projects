@@ -1,0 +1,18 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+
+    "css.styleSheets": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.24/css/jquery.dataTables.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta3/css/bootstrap.min.css",
+    ],
+
+    "css.enabledLanguages": [
+    "html", "php", "blade",
+    ],
+}
